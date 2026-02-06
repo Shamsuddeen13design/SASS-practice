@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "sass --watch TodoList/style.scss:TodoList/style.css SASS/style.scss:SASS/style.css"
+  },
+  "dependencies": {
+    "sass": "^1.97.3"
+  }
+}
